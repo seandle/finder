@@ -1,0 +1,8 @@
+/__pycache__
+/venv
+
+/finder.nginx.conf
+/docker-compose.yml
+
+/.password
+/.salt
